@@ -26,7 +26,7 @@ La auditoría reveló cinco fallos críticos que comprometían la calidad y segu
 El análisis demostró que una apariencia de éxito frente al usuario puede ocultar cuellos de botella y fallos lógicos[cite: 18]. Al analizar las trazas de error (Tracebacks) y aplicar correctamente los códigos de estado HTTP, se facilita el mantenimiento preventivo y se evita el bloqueo total del sistema ante fallos externos[cite: 18, 21].
 
 ## Autor
-* **Andrés Felipe Morales Pretel**[cite: 4]
-* **Programa:** Ingeniería de Sistemas[cite: 4]
-* **Institución:** Corporación Universitaria Remington[cite: 4]
-* **Repositorio:** [https://github.com/AndrexMrls/Taller-Observacion.git](https://github.com/AndrexMrls/Taller-Observacion.git)[cite: 4]
+* **Andrés Felipe Morales Pretel**
+* **Programa:** Ingeniería de Sistemas
+* **Institución:** Corporación Universitaria Remington
+* **Repositorio:** [https://github.com/AndrexMrls/Taller-Observacion.git](https://github.com/AndrexMrls/Taller-Observacion.git)
